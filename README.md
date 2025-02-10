@@ -1,4 +1,4 @@
--Task Management: Add, edit, and delete tasks dynamically.  
+- Task Management: Add, edit, and delete tasks dynamically.  
 
 - Local Storage Integration: Save tasks in localStorage to persist data across page reloads.  
 
